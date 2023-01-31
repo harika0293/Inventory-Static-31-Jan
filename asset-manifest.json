@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.263d7447.css",
+    "main.js": "/static/js/main.c2b6b2c5.js",
+    "static/js/703.efccb2fc.chunk.js": "/static/js/703.efccb2fc.chunk.js",
+    "static/js/513.b08302b6.chunk.js": "/static/js/513.b08302b6.chunk.js",
+    "static/media/curved14.jpg": "/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/curved-6.jpg": "/static/media/curved-6.71ee1d1cc8196ed2126b.jpg",
+    "static/media/help.png": "/static/media/help.e355805590047df8fc27.png",
+    "static/media/user1.png": "/static/media/user1.788710b7d8ff90f1302c.png",
+    "static/media/user.png": "/static/media/user.2ffee28a30387fc9fe84.png",
+    "static/media/dxicons.woff": "/static/media/dxicons.c568ff14b17313b699e2.woff",
+    "static/media/dxicons.ttf": "/static/media/dxicons.506efc48bb7054c11c4d.ttf",
+    "static/media/dxicons.woff2": "/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
+    "index.html": "/index.html",
+    "main.263d7447.css.map": "/static/css/main.263d7447.css.map",
+    "main.c2b6b2c5.js.map": "/static/js/main.c2b6b2c5.js.map",
+    "703.efccb2fc.chunk.js.map": "/static/js/703.efccb2fc.chunk.js.map",
+    "513.b08302b6.chunk.js.map": "/static/js/513.b08302b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263d7447.css",
+    "static/js/main.c2b6b2c5.js"
+  ]
+}
